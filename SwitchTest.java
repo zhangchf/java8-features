@@ -1,0 +1,11 @@
+public class SwitchTest extends Utils {
+    public static void main(String[] args) {
+        short x = 2;
+        switch (x) {
+            case 0: print("0");
+            case 1: print(1);
+            case 2: print(2);
+            case 3: print(3);
+        }
+    }
+}

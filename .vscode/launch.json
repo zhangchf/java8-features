@@ -1,0 +1,124 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InnerClassTest",
+            "request": "launch",
+            "mainClass": "InnerClassTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileReadTest",
+            "request": "launch",
+            "mainClass": "FileReadTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamTest",
+            "request": "launch",
+            "mainClass": "StreamTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WrapperTest",
+            "request": "launch",
+            "mainClass": "WrapperTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoopTest",
+            "request": "launch",
+            "mainClass": "ForLoopTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpliteratorTest",
+            "request": "launch",
+            "mainClass": "SpliteratorTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Spliterator",
+            "request": "launch",
+            "mainClass": "Spliterator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainTest",
+            "request": "launch",
+            "mainClass": "MainTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IOTest",
+            "request": "launch",
+            "mainClass": "IOTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalClassTest",
+            "request": "launch",
+            "mainClass": "LocalClassTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitchTest",
+            "request": "launch",
+            "mainClass": "SwitchTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Child",
+            "request": "launch",
+            "mainClass": "Child"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterfaceTest",
+            "request": "launch",
+            "mainClass": "InterfaceTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverrideTest",
+            "request": "launch",
+            "mainClass": "OverrideTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListTest",
+            "request": "launch",
+            "mainClass": "ListTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodRefCtor",
+            "request": "launch",
+            "mainClass": "MethodRefCtor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileTest",
+            "request": "launch",
+            "mainClass": "FileTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyCollection",
+            "request": "launch",
+            "mainClass": "MyCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringTest",
+            "request": "launch",
+            "mainClass": "StringTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
